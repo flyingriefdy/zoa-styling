@@ -153,4 +153,12 @@ button.v-btn.v-btn--block.v-btn--contained.theme--light.v-size--x-large {
     color: white;
     background: #2962FF;
 }
+
+img {
+    height: 64px;
+}
+
+.v-card:not(.v-sheet--tile):not(.v-card--shaped) {
+    border-radius: 8px;
+}
 </style>
